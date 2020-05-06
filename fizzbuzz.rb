@@ -7,6 +7,12 @@ def fizzbuzz(int)
   
   if int%3 == 0
     fizz = true 
+  end
   
-    
+  if int%5 == 0 
+    buzz = true
+  end
+  
+  if fizz&& 
+  
 end
