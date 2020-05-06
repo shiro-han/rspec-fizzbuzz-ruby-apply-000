@@ -14,6 +14,13 @@ def fizzbuzz(int)
   end
   
   if fizz&&buzz == true
-    puts ""
+    return "FizzBuzz"
+  elsif fizz == true
+    return "Fizz"
+  elsif buzz == true
+    return "buzz"
+  else
+    return nil
+  end
   
 end
