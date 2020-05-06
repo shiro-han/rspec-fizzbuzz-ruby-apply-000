@@ -18,7 +18,7 @@ def fizzbuzz(int)
   elsif fizz == true
     return "Fizz"
   elsif buzz == true
-    return "buzz"
+    return "Buzz"
   else
     return nil
   end
