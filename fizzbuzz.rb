@@ -13,6 +13,7 @@ def fizzbuzz(int)
     buzz = true
   end
   
-  if fizz&& 
+  if fizz&&buzz == true
+    puts ""
   
 end
